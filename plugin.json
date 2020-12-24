@@ -1,0 +1,9 @@
+{
+  "id": "google-meet-plugin",
+  "version": "0.0.1",
+  "name": "Google Meet Plugin",
+  "description": "Start Google Meet calls",
+  "webapp": {
+    "bundle_path": "webapp/main.js"
+  }
+}
