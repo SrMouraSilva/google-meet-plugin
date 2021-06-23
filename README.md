@@ -1,3 +1,5 @@
+> This repo has been moved to https://github.com/SrMouraSilva/mattermost-google-meet-plugin
+
 # Google Meet Plugin
 
 The **Google Meet Plugin** add a button in the header bar in all calls:
